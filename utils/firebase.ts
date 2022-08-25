@@ -7,5 +7,5 @@ initializeApp({
     projectId: "insect-rally",
     storageBucket: "insect-rally.appspot.com",
     messagingSenderId: "635528997469",
-    appId: "1:635528997469:web:4bfbd3f0ebf51e29e8bbb4"
+    appId: "1:635528997469:web:e675bca1f7ef2563e8bbb4"
 })
